@@ -1,5 +1,6 @@
 {
   "name": "webtheory/wp-cli-bundle",
+  "type": "metapackage",
   "description": "WP-CLI bundle for exclusive use as a Composer dependency",
   "keywords": [
     "cli",
